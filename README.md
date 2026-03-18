@@ -28,9 +28,3 @@ Hands-on project: Set up Fail2Ban on Ubuntu to protect SSH from brute-force atta
 - Email alert received after ban
 - auth.log showing failed attempts
 - fail2ban.log showing Ban line
-
-## Resume / Portfolio Summary
-
-"Implemented Fail2Ban intrusion prevention system on Ubuntu with custom SSH jail and real-time email alerts via Postfix/Gmail. Simulated brute-force attacks from Kali Linux and verified bans/notifications."
-
-Built March 2026 – Anthony
