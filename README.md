@@ -1,4 +1,4 @@
-# Fail2Ban SSH Security Lab Objective
+# Fail2Ban SSH Security Lab
 
 Set up Fail2Ban on Ubuntu to protect SSH from brute-force attacks, simulated real attacks from Kali Linux, and added automated email alerts on bans.
 
